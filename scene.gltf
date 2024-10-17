@@ -651,16 +651,16 @@
   ],
   "images": [
     {
-      "uri": "textures/material0.001_baseColor.png"
+      "uri": "https://github.com/lazaroOliveiraUFRN/vr_sample/raw/refs/heads/main/material0.001_baseColor.png"
     },
     {
-      "uri": "textures/material0.001_normal.png"
+      "uri": "https://github.com/lazaroOliveiraUFRN/vr_sample/raw/refs/heads/main/material0.001_normal.png"
     },
     {
-      "uri": "textures/material0_baseColor.png"
+      "uri": "https://github.com/lazaroOliveiraUFRN/vr_sample/raw/refs/heads/main/material0_baseColor.png"
     },
     {
-      "uri": "textures/material0_normal.png"
+      "uri": "https://github.com/lazaroOliveiraUFRN/vr_sample/raw/refs/heads/main/material0_normal.png"
     }
   ],
   "materials": [
